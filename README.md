@@ -121,7 +121,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 ## 👨🏻‍💻 Languages and Tools | 语言与工具
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmamentWu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-firmamentwus-projects.vercel.app/api/top-langs/?username=FirmamentWu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="left">
@@ -201,7 +201,7 @@ I aspire to become a **top-tier AI engineer and scientist**, bridging cutting-ed
 > *"我与我周旋久，宁做我。"*
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirmamentWu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FirmamentWu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
