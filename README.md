@@ -1,4 +1,4 @@
-<h1 align="center">Alan Xiangyu Wu | 吴翔宇</h1>
+<h1 align="center">Alan Xiangyu Wu | 武翔宇</h1>
 
 <p align="center">
   <strong>M.S. Student in Applied AI @ Nanyang Technological University</strong><br>
