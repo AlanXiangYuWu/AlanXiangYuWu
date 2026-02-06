@@ -1,4 +1,6 @@
-<h1 align="center">Alan Xiangyu Wu | 武翔宇</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Alan+Xiangyu+Wu+%7C+%E6%AD%A6%E7%BF%94%E5%AE%87;M.S.+in+Applied+AI+%40+NTU+Singapore;Multi-Agent+Systems+%7C+Multimodal+AI;Building+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <strong>M.S. Student in Applied AI @ Nanyang Technological University</strong><br>
@@ -9,6 +11,17 @@
   <a href="https://www.linkedin.com/in/alan-xiangyu-wu-b39ba526a">LinkedIn</a> &bull;
   <a href="mailto:xiangyu015@e.ntu.edu.sg">Email</a> &bull;
   <a href="https://github.com/FirmamentWu">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=FirmamentWu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/FirmamentWu?style=for-the-badge&logo=github&label=Followers&color=2eb85c"/>
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/FirmamentWu?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
 </p>
 
 ---
@@ -33,7 +46,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ---
 
-## Research Interests | 研究方向
+## 🔬 Research Interests | 研究方向
 
 - **Multi-Agent Systems (MAS):** Optimization, coordination, and LLM routing via DCOP & Multi-Armed Bandit approaches
 
@@ -53,7 +66,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ---
 
-## News | 最新动态
+## 📰 News | 最新动态
 
 | Date | Event |
 |------|-------|
@@ -64,7 +77,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ---
 
-## Experience | 工作经历
+## 💼 Experience | 工作经历
 
 ### Algorithm Scientist Intern | 算法科学家实习生
 **Nanyang Technological University — AI for X Lab | 南洋理工大学 AI for X 实验室** &nbsp; `Nov 2025 – Present` &nbsp; Singapore
@@ -89,7 +102,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ---
 
-## Education | 教育经历
+## 🎓 Education | 教育经历
 
 - **M.S. in Applied Artificial Intelligence | 应用人工智能硕士** — Nanyang Technological University (NTU) | 南洋理工大学 &nbsp; `2025 – 2026`
   - Founder of NTU Ski & Snowboard Club | 南洋理工大学滑雪与单板滑雪社创始人
@@ -99,23 +112,40 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ---
 
-## Honors & Awards | 荣誉与奖项
+## 🏆 Honors & Awards | 荣誉与奖项
 
 - **First Level Academic Scholarship | 一等学业奖学金**, China Agricultural University | 中国农业大学
 
 ---
 
-## Technical Skills | 技术技能
+## 👨🏻‍💻 Languages and Tools | 语言与工具
 
-**Languages | 编程语言：** Python, SQL, C/C++
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmamentWu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-**Frameworks & Tools | 框架与工具：** PyTorch, LangChain, HuggingFace Transformers, RAG Pipelines, Docker, Git
-
-**Research Areas | 研究领域：** Multi-Agent Systems | 多智能体系统, LLM Fine-tuning | 大模型微调, Multimodal Alignment | 多模态对齐, Reinforcement Learning | 强化学习, NLP | 自然语言处理
+<p align="left">
+  <!-- Python & ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <!-- Platforms / Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
+</p>
 
 ---
 
-## Projects | 项目
+## 🚀 Projects | 项目
 
 | Project | Description |
 |---------|-------------|
@@ -125,7 +155,15 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ---
 
-## Long-term Vision | 长期愿景
+## 🎯 Short-term Vision | 短期目标
+
+> In the near term, I am focused on **publishing top-tier research papers** (e.g., NeurIPS, ICML, ICLR, ACL) that advance the frontiers of multi-agent systems and multimodal AI, while securing a **high-impact, international position in Singapore** where I can apply my expertise in a dynamic, globally connected AI ecosystem.
+
+> 短期内，我专注于**发表顶级研究论文**（如 NeurIPS、ICML、ICLR、ACL），推动多智能体系统与多模态AI的前沿发展，同时寻求在**新加坡获得一份高薪、高影响力的国际化岗位**，在充满活力的全球化AI生态中发挥我的专业能力。
+
+---
+
+## 🌱 Long-term Vision | 长期愿景
 
 I aspire to become a **top-tier AI engineer and scientist**, bridging cutting-edge research in multimodal world models and multi-agent systems with real-world impact. I aim to push the boundaries of how AI systems collaborate, reason, and perceive — and when the opportunity arises, channel that expertise into building my own AI venture.
 
@@ -133,13 +171,41 @@ I aspire to become a **top-tier AI engineer and scientist**, bridging cutting-ed
 
 ---
 
-## Contact | 联系方式
+## 🤝 Connect with me | 联系方式
 
-- **Email | 邮箱：** [xiangyu015@e.ntu.edu.sg](mailto:xiangyu015@e.ntu.edu.sg)
-- **LinkedIn：** [alan-xiangyu-wu](https://www.linkedin.com/in/alan-xiangyu-wu-b39ba526a)
-- **GitHub：** [FirmamentWu](https://github.com/FirmamentWu)
-- **Location | 所在地：** Singapore | 新加坡
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alan-xiangyu-wu-b39ba526a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:xiangyu015@e.ntu.edu.sg">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/FirmamentWu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Location | 所在地：</strong> Singapore | 新加坡
+</p>
 
 ---
+
+## ✨ Quote
+
+> *"After long inner battles, I prefer to remain authentically me."*
+>
+> *"我与我周旋久，宁做我。"*
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirmamentWu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <p align="center"><em>Last updated | 最后更新: Feb. 2026</em></p>
