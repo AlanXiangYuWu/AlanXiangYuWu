@@ -196,9 +196,8 @@ I aspire to become a **top-tier AI engineer and scientist**, bridging cutting-ed
 >
 > *"我与我周旋久，宁做我。"*
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=FirmamentWu&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+[![FirmamentWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirmamentWu&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="center">
