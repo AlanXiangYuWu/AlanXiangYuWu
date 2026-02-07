@@ -120,10 +120,6 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ## 👨🏻‍💻 Languages and Tools | 语言与工具
 
-<p align="center">
-  <img src="https://github-readme-stats-firmamentwus-projects.vercel.app/api/top-langs/?username=FirmamentWu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 <p align="left">
   <!-- Python & ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
