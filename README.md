@@ -200,6 +200,7 @@ I aspire to become a **top-tier AI engineer and scientist**, bridging cutting-ed
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=FirmamentWu&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
