@@ -32,9 +32,9 @@ Welcome! I am a Master's student in **Applied Artificial Intelligence** at [Nany
 
 欢迎！我是[南洋理工大学 (NTU)](https://www.ntu.edu.sg/) **应用人工智能**硕士研究生。此前，我在[中国农业大学 (CAU)](https://www.cau.edu.cn/) 取得了**数据科学与化学工程双学位**学士学位，GPA **3.82/4.0**。
 
-I am currently an **Algorithm Scientist Intern** at [NTU AI for X Lab](https://www.ntu.edu.sg/), working on multi-agent systems, LLM routing problems, and multimodal alignment. Previously, I worked as an **Algorithm Engineer** at [Kuaishou Technology](https://www.kuaishou.com/) and served as a **Research Assistant** at [Tsinghua University (THU-NLP-AIR)](https://air.tsinghua.edu.cn/).
+I am currently a **Research Scientist Intern** at [NTU AI for X Lab](https://www.ntu.edu.sg/), working on multi-agent systems, LLM routing problems, and multimodal alignment. Previously, I worked as an **Algorithm Engineer** at [Kuaishou Technology](https://www.kuaishou.com/) and served as a **Research Assistant** at [Tsinghua University (THU-NLP-AIR)](https://air.tsinghua.edu.cn/).
 
-目前，我在 [NTU AI for X 实验室](https://www.ntu.edu.sg/)担任**算法科学家实习生**，研究多智能体系统、大语言模型路由问题和多模态对齐。此前，我在[快手科技](https://www.kuaishou.com/)担任**算法工程师**，并在[清华大学 (THU-NLP-AIR)](https://air.tsinghua.edu.cn/) 担任**研究助理**。
+目前，我在 [NTU AI for X 实验室](https://www.ntu.edu.sg/)担任**研究科学家实习生**，研究多智能体系统、大语言模型路由问题和多模态对齐。此前，我在[快手科技](https://www.kuaishou.com/)担任**算法工程师**，并在[清华大学 (THU-NLP-AIR)](https://air.tsinghua.edu.cn/) 担任**研究助理**。
 
 My long-term aspiration is to become a leading AI engineer/scientist and, when the time is right, build my own venture in the AI space.
 
@@ -70,7 +70,8 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Date | Event |
 |------|-------|
-| 2025.11 | Joined **NTU AI for X Lab** as Algorithm Scientist Intern, focusing on multi-agent systems and multimodal alignment <br> 加入**南洋理工大学 AI for X 实验室**担任算法科学家实习生，研究多智能体系统与多模态对齐 |
+| 2026.02 | Started the **spatial-attention-multi-robot-planning** project and began preparing an **IROS paper** <br> 启动 **spatial-attention-multi-robot-planning** 新项目，并开始准备 **IROS 论文** |
+| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems and multimodal alignment <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统与多模态对齐 |
 | 2025.11 | Started **M.S. in Applied AI** at Nanyang Technological University, Singapore <br> 入读**南洋理工大学应用人工智能**硕士项目 |
 | 2025.08 | Joined **Kuaishou Technology** as Algorithm Engineer, working on MAS and automated UI testing agents <br> 加入**快手科技**担任算法工程师，研究多智能体系统与自动化UI测试智能体 |
 | 2024.10 | Joined **Tsinghua University (THU-NLP-AIR)** as Research Assistant, working on NLP and RAG systems <br> 加入**清华大学 (THU-NLP-AIR)** 担任研究助理，研究NLP与RAG系统 |
@@ -79,12 +80,13 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ## 💼 Experience | 工作经历
 
-### Algorithm Scientist Intern | 算法科学家实习生
+### Research Scientist Intern | 研究科学家实习生
 **Nanyang Technological University — AI for X Lab | 南洋理工大学 AI for X 实验室** &nbsp; `Nov 2025 – Present` &nbsp; Singapore
 
-- Research on Multi-Agent Systems (MAS) and LLM Routing Problems | 多智能体系统与大语言模型路由问题研究
-- DCOP Multi-Armed Bandit (MAB) optimization | DCOP多臂老虎机优化
-- Multimodal alignment research | 多模态对齐研究
+- Supervisor: Bo An | 导师：Bo An
+- Multi-Agent Systems (MAS) and LLM-based agent collaboration | 多智能体系统（MAS）与基于LLM的智能体协作
+- LLM routing and coordination (DCOP, Multi-Armed Bandits, adaptive expert selection) | LLM路由与协同（DCOP、多臂老虎机、自适应专家选择）
+- Multimodal alignment and representation learning (World Model) | 多模态对齐与表征学习（世界模型）
 
 ### Algorithm Engineer | 算法工程师
 **Kuaishou Technology | 快手科技** &nbsp; `Aug 2025 – Nov 2025` &nbsp; Beijing, China
@@ -145,6 +147,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Project | Description |
 |---------|-------------|
+| [spatial-attention-multi-robot-planning](https://github.com/FirmamentWu/spatial-attention-multi-robot-planning) | Spatial attention methods for multi-robot planning; project aligned with an IROS paper in progress <br> 面向多机器人规划的空间注意力方法；项目对应进行中的 IROS 论文 |
 | [Langchain-Chatchat](https://github.com/FirmamentWu/Langchain-Chatchat) | RAG and agent application built with LangChain <br> 基于LangChain构建的RAG与智能体应用 |
 | [AI-UX Data Visualisation](https://github.com/FirmamentWu/AI-UX-DATA-VISUALISATION-DESIGN-PRINCIPLES) | Design principles for AI-powered data visualisation <br> AI驱动的数据可视化设计原则 |
 | [Data Governance Best Practices](https://github.com/FirmamentWu/BEST-PRACTICES-IN-DATA-GOVERNANCE-PREPARATION-ANALYTICS) | Best practices in data governance, preparation, and analytics <br> 数据治理、准备与分析的最佳实践 |
@@ -153,9 +156,9 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 ## 🎯 Short-term Vision | 短期目标
 
-> In the near term, I am focused on **publishing top-tier research papers** (e.g., NeurIPS, ICML, ICLR, ACL) that advance the frontiers of multi-agent systems and multimodal AI, while securing a **high-impact, international position in Singapore** where I can apply my expertise in a dynamic, globally connected AI ecosystem.
+> In the near term, I am focused on **publishing top-tier research papers** (e.g., NeurIPS, ICML, ICLR, ACL, IROS) that advance the frontiers of multi-agent systems and multimodal AI, while securing a **high-impact, international position in Singapore** where I can apply my expertise in a dynamic, globally connected AI ecosystem.
 
-> 短期内，我专注于**发表顶级研究论文**（如 NeurIPS、ICML、ICLR、ACL），推动多智能体系统与多模态AI的前沿发展，同时寻求在**新加坡获得一份高薪、高影响力的国际化岗位**，在充满活力的全球化AI生态中发挥我的专业能力。
+> 短期内，我专注于**发表顶级研究论文**（如 NeurIPS、ICML、ICLR、ACL、IROS），推动多智能体系统与多模态AI的前沿发展，同时寻求在**新加坡获得一份高薪、高影响力的国际化岗位**，在充满活力的全球化AI生态中发挥我的专业能力。
 
 ---
 
