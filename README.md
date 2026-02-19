@@ -28,9 +28,9 @@
 
 ## About Me | 关于我
 
-Welcome! I am a Master's student in **Applied Artificial Intelligence** at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore. Before that, I obtained my Bachelor's degree with a **double major in Data Science and Chemistry Engineering** from [China Agricultural University (CAU)](https://www.cau.edu.cn/) with a GPA of **3.82/4.0**.
+Welcome! I am a Master's student in **Applied Artificial Intelligence** at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore.
 
-欢迎！我是[南洋理工大学 (NTU)](https://www.ntu.edu.sg/) **应用人工智能**硕士研究生。此前，我在[中国农业大学 (CAU)](https://www.cau.edu.cn/) 取得了**数据科学与化学工程双学位**学士学位，GPA **3.82/4.0**。
+欢迎！我是[南洋理工大学 (NTU)](https://www.ntu.edu.sg/) **应用人工智能**硕士研究生。
 
 I am currently a **Research Scientist Intern** at [NTU AI for X Lab](https://www.ntu.edu.sg/), working on multi-agent systems, LLM routing problems, and multimodal alignment. Previously, I worked as an **Algorithm Engineer** at [Kuaishou Technology](https://www.kuaishou.com/) and served as a **Research Assistant** at [Tsinghua University (THU-NLP-AIR)](https://air.tsinghua.edu.cn/).
 
@@ -108,9 +108,6 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 - **M.S. in Applied Artificial Intelligence | 应用人工智能硕士** — Nanyang Technological University (NTU) | 南洋理工大学 &nbsp; `2025 – 2026`
   - Founder of NTU Ski & Snowboard Club | 南洋理工大学滑雪与单板滑雪社创始人
-- **B.S. in Data Science & Chemistry Engineering (Double Major) | 数据科学与化学工程双学位学士** — China Agricultural University (CAU) | 中国农业大学 &nbsp; `2020 – 2025`
-  - GPA: 3.82 / 4.0
-  - First Level Academic Scholarship | 一等学业奖学金
 
 ---
 
