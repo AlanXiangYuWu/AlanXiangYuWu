@@ -70,8 +70,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Date | Event |
 |------|-------|
-| 2026.02 | Started the **spatial-attention-multi-robot-planning** project and began preparing an **IROS paper** <br> 启动 **spatial-attention-multi-robot-planning** 新项目，并开始准备 **IROS 论文** |
-| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems and multimodal alignment <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统与多模态对齐 |
+| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems, multimodal alignment, and multi-robot planning; started **spatial-attention-multi-robot-planning** project and began preparing an **IROS paper** (Feb 2026) <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统、多模态对齐与多机器人规划；启动 **spatial-attention-multi-robot-planning** 项目并开始准备 **IROS 论文**（2026.02） |
 | 2025.11 | Started **M.S. in Applied AI** at Nanyang Technological University, Singapore <br> 入读**南洋理工大学应用人工智能**硕士项目 |
 | 2025.08 | Joined **Kuaishou Technology** as Algorithm Engineer, working on MAS and automated UI testing agents <br> 加入**快手科技**担任算法工程师，研究多智能体系统与自动化UI测试智能体 |
 | 2024.10 | Joined **Tsinghua University (THU-NLP-AIR)** as Research Assistant, working on NLP and RAG systems <br> 加入**清华大学 (THU-NLP-AIR)** 担任研究助理，研究NLP与RAG系统 |
@@ -144,10 +143,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Project | Description |
 |---------|-------------|
-| [spatial-attention-multi-robot-planning](https://github.com/FirmamentWu/spatial-attention-multi-robot-planning) | Spatial attention methods for multi-robot planning; project aligned with an IROS paper in progress <br> 面向多机器人规划的空间注意力方法；项目对应进行中的 IROS 论文 |
-| [Langchain-Chatchat](https://github.com/FirmamentWu/Langchain-Chatchat) | RAG and agent application built with LangChain <br> 基于LangChain构建的RAG与智能体应用 |
-| [AI-UX Data Visualisation](https://github.com/FirmamentWu/AI-UX-DATA-VISUALISATION-DESIGN-PRINCIPLES) | Design principles for AI-powered data visualisation <br> AI驱动的数据可视化设计原则 |
-| [Data Governance Best Practices](https://github.com/FirmamentWu/BEST-PRACTICES-IN-DATA-GOVERNANCE-PREPARATION-ANALYTICS) | Best practices in data governance, preparation, and analytics <br> 数据治理、准备与分析的最佳实践 |
+| [spatial-attention-multi-robot-planning](https://github.com/FirmamentWu/spatial-attention-multi-robot-planning) | Spatial-relation-enhanced multi-head attention communication for multi-robot path planning. <br> 空间关系增强的多头注意力通信用于多机器人路径规划。 |
 
 ---
 
