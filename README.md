@@ -70,7 +70,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Date | Event |
 |------|-------|
-| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems, multimodal alignment, and multi-robot planning; launched **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** (repo: spatial-attention-multi-robot-planning) and submitted an **IROS paper** (under review, Feb 2026) <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统、多模态对齐与多机器人规划；启动 **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** 项目（仓库：spatial-attention-multi-robot-planning），并投稿 **IROS 论文**（2026.02，审稿中） |
+| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems, multimodal alignment, and multi-robot planning; launched **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** (repo: [sparc](https://github.com/AlanXiangYuWu/sparc)) and submitted an **IROS paper** (under review, Feb 2026) <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统、多模态对齐与多机器人规划；启动 **SPARC：基于注意力机器人通信的空间感知路径规划** 项目（仓库：[sparc](https://github.com/AlanXiangYuWu/sparc)），并投稿 **IROS 论文**（2026.02，审稿中） |
 | 2025.11 | Started **M.S. in Applied AI** at Nanyang Technological University, Singapore <br> 入读**南洋理工大学应用人工智能**硕士项目 |
 | 2025.08 | Joined **Kuaishou Technology** as Algorithm Engineer, working on MAS and automated UI testing agents <br> 加入**快手科技**担任算法工程师，研究多智能体系统与自动化UI测试智能体 |
 | 2024.10 | Joined **Tsinghua University (THU-NLP-AIR)** as Research Assistant, working on NLP and RAG systems <br> 加入**清华大学 (THU-NLP-AIR)** 担任研究助理，研究NLP与RAG系统 |
@@ -145,7 +145,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Project | Description |
 |---------|-------------|
-| [SPARC: Spatial-Aware Path Planning via Attentive Robot Communication](https://github.com/FirmamentWu/spatial-attention-multi-robot-planning) | Spatial-relation-enhanced attentive communication for multi-robot path planning under partial observability; **IROS submission under review** (Feb 2026). <br> 面向部分可观测环境的空间关系增强注意力通信多机器人路径规划；**IROS投稿审稿中**（2026年2月）。 |
+| [SPARC: Spatial-Aware Path Planning via Attentive Robot Communication](https://github.com/AlanXiangYuWu/sparc) | Spatial-relation-enhanced attentive communication for multi-robot path planning under partial observability; **IROS submission under review** (Feb 2026). <br> SPARC：基于注意力机器人通信的空间感知路径规划；**IROS投稿审稿中**（2026年2月）。 |
 
 ---
 
