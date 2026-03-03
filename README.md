@@ -70,7 +70,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Date | Event |
 |------|-------|
-| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems, multimodal alignment, and multi-robot planning; started **spatial-attention-multi-robot-planning** project and began preparing an **IROS paper** (Feb 2026) <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统、多模态对齐与多机器人规划；启动 **spatial-attention-multi-robot-planning** 项目并开始准备 **IROS 论文**（2026.02） |
+| 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems, multimodal alignment, and multi-robot planning; launched **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** (repo: spatial-attention-multi-robot-planning) and submitted an **IROS paper** (under review, Feb 2026) <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统、多模态对齐与多机器人规划；启动 **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** 项目（仓库：spatial-attention-multi-robot-planning），并投稿 **IROS 论文**（2026.02，审稿中） |
 | 2025.11 | Started **M.S. in Applied AI** at Nanyang Technological University, Singapore <br> 入读**南洋理工大学应用人工智能**硕士项目 |
 | 2025.08 | Joined **Kuaishou Technology** as Algorithm Engineer, working on MAS and automated UI testing agents <br> 加入**快手科技**担任算法工程师，研究多智能体系统与自动化UI测试智能体 |
 | 2024.10 | Joined **Tsinghua University (THU-NLP-AIR)** as Research Assistant, working on NLP and RAG systems <br> 加入**清华大学 (THU-NLP-AIR)** 担任研究助理，研究NLP与RAG系统 |
@@ -83,9 +83,11 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 **Nanyang Technological University — AI for X Lab | 南洋理工大学 AI for X 实验室** &nbsp; `Nov 2025 – Present` &nbsp; Singapore
 
 - Supervisor: Bo An | 导师：Bo An
-- Multi-Agent Systems (MAS) and LLM-based agent collaboration | 多智能体系统（MAS）与基于LLM的智能体协作
+- Core research: Multi-Agent Systems (MAS) and LLM-based agent collaboration | 研究方向：多智能体系统（MAS）与基于LLM的智能体协作
+- Led **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** for multi-robot path planning; designed spatial-relation-aware attentive communication mechanisms to improve decentralized coordination under partial observability | 主导 **SPARC：基于注意力机器人通信的空间感知路径规划**，面向多机器人路径规划设计空间关系感知的注意力通信机制，提升部分可观测条件下的去中心化协同能力
 - LLM routing and coordination (DCOP, Multi-Armed Bandits, adaptive expert selection) | LLM路由与协同（DCOP、多臂老虎机、自适应专家选择）
 - Multimodal alignment and representation learning (World Model) | 多模态对齐与表征学习（世界模型）
+- Top-tier conference output: **IROS submission under review** (submitted in Feb 2026); actively developing follow-up work for top venues | 顶会产出：**IROS 论文已投稿并在审**（2026年2月投稿）；持续推进后续工作面向顶级会议
 
 ### Algorithm Engineer | 算法工程师
 **Kuaishou Technology | 快手科技** &nbsp; `Aug 2025 – Nov 2025` &nbsp; Beijing, China
@@ -143,7 +145,7 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Project | Description |
 |---------|-------------|
-| [spatial-attention-multi-robot-planning](https://github.com/FirmamentWu/spatial-attention-multi-robot-planning) | Spatial-relation-enhanced multi-head attention communication for multi-robot path planning. <br> 空间关系增强的多头注意力通信用于多机器人路径规划。 |
+| [SPARC: Spatial-Aware Path Planning via Attentive Robot Communication](https://github.com/FirmamentWu/spatial-attention-multi-robot-planning) | Spatial-relation-enhanced attentive communication for multi-robot path planning under partial observability; **IROS submission under review** (Feb 2026). <br> 面向部分可观测环境的空间关系增强注意力通信多机器人路径规划；**IROS投稿审稿中**（2026年2月）。 |
 
 ---
 
