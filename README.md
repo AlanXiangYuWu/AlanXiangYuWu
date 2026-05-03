@@ -70,6 +70,9 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 
 | Date | Event |
 |------|-------|
+| 2026.04 | Actively seeking full-time roles in **Generative Recommendation / LLM / Multimodal / Embodied AI** algorithm engineering — see [Target Roles](#-target-roles--求职方向) <br> 积极寻求**生成式推荐 / 大模型 / 多模态 / 具身智能**方向算法工程师全职机会，详见[求职方向](#-target-roles--求职方向) |
+| 2026.02 | Built **π₀.₅ Robot VLA Fine-tuning** pipeline (4×A100 FSDP, 94.6% avg success on LIBERO) and **MiniOneRec Generative Recommender** (GRPO + RQ-VAE, HR@5=13.21% on Amazon I&S) <br> 完成**π₀.₅ 机器人 VLA 微调**（4×A100 FSDP，LIBERO 平均成功率 94.6%）与**基于 MiniOneRec 的生成式推荐系统**（GRPO + RQ-VAE，Amazon I&S 数据集 HR@5=13.21%） |
+| 2025.12 | Joined **NTU AI for X Lab × MIAO GAME (Joint Training)** as Multimodal Algorithm Researcher; leading **ReTR — Render-to-Material Retrieval** benchmark (paper in preparation) <br> 加入**南洋理工大学 AI for X 实验室 × MIAO GAME 联合培养**担任多模态算法研究员；主导 **ReTR — 渲染图到材质检索** 基准（论文准备中） |
 | 2025.11 | Joined **NTU AI for X Lab** as Research Scientist Intern, focusing on multi-agent systems, multimodal alignment, and multi-robot planning; completed **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** (repo: [sparc](https://github.com/AlanXiangYuWu/sparc)) and submitted an **IROS paper** (under review, Feb 2026) <br> 加入**南洋理工大学 AI for X 实验室**担任研究科学家实习生，研究多智能体系统、多模态对齐与多机器人规划；完成 **SPARC：基于注意力机器人通信的空间感知路径规划** 项目（仓库：[sparc](https://github.com/AlanXiangYuWu/sparc)），并投稿 **IROS 论文**（2026.02，审稿中） |
 | 2025.11 | Started **M.S. in Applied AI** at Nanyang Technological University, Singapore <br> 入读**南洋理工大学应用人工智能**硕士项目 |
 | 2025.08 | Joined **Kuaishou Technology** as Algorithm Engineer, working on MAS and automated UI testing agents <br> 加入**快手科技**担任算法工程师，研究多智能体系统与自动化UI测试智能体 |
@@ -78,6 +81,15 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 ---
 
 ## 💼 Experience | 工作经历
+
+### Multimodal Algorithm Researcher | 多模态算法研究员
+**NTU AI for X Lab × MIAO GAME (Joint Training) | 南洋理工大学 AI for X 实验室 × MIAO GAME 联合培养** &nbsp; `Dec 2025 – Present` &nbsp; Singapore
+
+- **ReTR — Cross-modal Visual-Language Alignment & Material Retrieval (paper in preparation)** | **ReTR — 跨模态视觉-语言对齐与材质检索系统（论文准备中）**
+- Proposed the **first benchmark for the Render-to-Material retrieval task**, building a 19,568-triplet dataset of (rendered image, PBR texture, text description) covering fabric, metal, stone, and wood | 提出 **Render-to-Material 检索任务首个 benchmark**，构建 19,568 对（渲染图, PBR 贴图, 文本描述）三元组数据集，覆盖织物/金属/石材/木材等多类材质
+- Designed a two-stage contrastive learning framework: Stage 1 fine-tunes the **InternVL2-1B ViT encoder + ContrastiveHead** with symmetric InfoNCE for render↔texture visual alignment; Stage 2 freezes the ViT and full-parameter fine-tunes **Qwen2 LLM + RetrievalHead** for image-text fused multimodal alignment | 设计两阶段对比学习框架：Stage 1 对 **InternVL2-1B ViT 编码器 + ContrastiveHead** 进行对称 InfoNCE 微调，实现渲染图↔贴图视觉对齐；Stage 2 冻结 ViT，全参数微调 **Qwen2 LLM + RetrievalHead**，实现图文融合查询↔贴图的多模态对齐
+- Proposed **RMR-Score**, a unified retrieval metric fusing R@1 (precision), R@5 (coverage), and MRR (rank quality) into a single comparable scalar, addressing metric fragmentation in cross-modal retrieval | 提出 **RMR-Score** 综合评估指标，融合 R@1（精准度）、R@5（覆盖度）、MRR（排序质量）为单一可比标量，解决跨模态检索领域评估指标碎片化问题
+- On the 1,956-gallery full evaluation: vision-only retrieval reaches **R@1=35.7%, R@5=71.3%, nDCG@10=0.583, RMR=0.530**; multimodal (image+text) retrieval further improves to **R@1=44.5%, R@5=83.8%, R@10=91.2%, nDCG@10=0.688, RMR=0.634**, supporting both pure-visual and natural-language-guided retrieval modes | 在 1,956-gallery 全量评测中，纯视觉检索达 **R@1=35.7%、R@5=71.3%、nDCG@10=0.583、RMR=0.530**；多模态检索（图+文）进一步提升至 **R@1=44.5%、R@5=83.8%、R@10=91.2%、nDCG@10=0.688、RMR=0.634**，支持纯视觉检索与自然语言引导检索两种模式
 
 ### Research Scientist Intern | 研究科学家实习生
 **Nanyang Technological University — AI for X Lab | 南洋理工大学 AI for X 实验室** &nbsp; `Nov 2025 – Present` &nbsp; Singapore
@@ -145,6 +157,29 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 | Project | Description |
 |---------|-------------|
 | [SPARC: Spatial-Aware Path Planning via Attentive Robot Communication](https://github.com/AlanXiangYuWu/sparc) | Spatial-relation-enhanced attentive communication for multi-robot path planning under partial observability; **IROS submission under review** (Feb 2026). <br> SPARC：基于注意力机器人通信的空间感知路径规划；**IROS投稿审稿中**（2026年2月）。 |
+| **ReTR: Cross-modal Visual-Language Alignment & Material Retrieval** *(paper in preparation)* | First benchmark for the **Render-to-Material** retrieval task with a 19,568-triplet dataset (rendered image, PBR texture, text). Two-stage contrastive learning on InternVL2-1B ViT + Qwen2 LLM, with the proposed **RMR-Score** unified metric. Achieves **R@1=44.5%, R@5=83.8%, R@10=91.2%, RMR=0.634** on 1,956-gallery multimodal retrieval. <br> **ReTR：跨模态视觉-语言对齐与材质检索**：首个 Render-to-Material 检索基准，19,568 三元组数据集；InternVL2-1B ViT + Qwen2 LLM 两阶段对比学习，提出 **RMR-Score** 综合指标；多模态检索 **R@1=44.5%、R@5=83.8%、R@10=91.2%、RMR=0.634**（论文准备中）。 |
+| **MiniOneRec-based Generative Recommender** *(2026)* | GRPO-based recommendation-oriented RL on **Qwen2.5-3B**, combined with Constrained Beam Search for legality and diversity. **RQ-VAE** 3-layer residual quantization compresses 3,686 Amazon items into 560 discrete Semantic ID tokens injected into the LLM vocabulary via SFT. Single-GPU `freeze_LLM` reproduces **HR@5=13.21%** on Amazon Industrial_and_Scientific, surpassing SASRec / BIGRec baselines. <br> **基于 MiniOneRec 的生成式推荐系统**（2026）：GRPO 算法对 Qwen2.5-3B 进行推荐导向强化学习，结合 Constrained Beam Search 保证合法性与多样性；RQ-VAE 三层残差量化将 3,686 件 Amazon 商品压缩为 560 个 Semantic ID token 并通过 SFT 语义对齐；Industrial_and_Scientific 数据集上 freeze_LLM 单卡复现 **HR@5=13.21%**，超越 SASRec、BIGRec 等基线。 |
+| **Search-R1 RAG Reasoning System** *(2025)* | Built on the **veRL** framework using **GRPO** to train **Qwen2.5-3B** to autonomously call a search engine for multi-hop QA. Constructed a **FAISS + E5** vector retrieval service over 3M Wikipedia documents for real-time semantic search. On NQ and HotpotQA, the model evolves from **5% base EM** to **86% format accuracy** and **80%+ task completion**. <br> **基于 Search-R1 的检索增强推理系统**（2025）：veRL 框架 + GRPO 训练 Qwen2.5-3B 自主调用搜索引擎多跳问答；构建 FAISS + E5 向量检索服务（300 万 Wikipedia 文档）；NQ / HotpotQA 上从 5% base EM 训练至格式正确率 **86%**、任务完成率 **80%+**。 |
+| **π₀.₅ Robot Vision-Language-Action Fine-tuning & Evaluation** *(2026)* | Full-parameter fine-tuning of Physical Intelligence's **π₀.₅ (2.7B)** VLA on the open-source **OpenPI** framework: SigLIP vision + PaliGemma 2B multimodal backbone + Gemma 300M action expert, using **Flow Matching** in place of autoregressive continuous-action generation. Trained on **4×A100 80GB + FSDP**, batch_size=256, 30k steps; reaches **94.6% average success on 4 LIBERO benchmark tasks**. Analyzed offline-BC vs MuJoCo closed-loop distribution shift, evaluating spatial generalization with 50 randomly perturbed initial states (±1.5cm). <br> **基于 π₀.₅ 的机器人视觉-语言-动作模型微调与评估**（2026）：OpenPI 框架对 π₀.₅（2.7B）VLA 全参数微调，SigLIP + PaliGemma 2B + Gemma 300M 动作专家 + Flow Matching；4×A100 80GB FSDP，batch_size=256，30k 步训练后 LIBERO 四项任务平均成功率 **94.6%**；深入分析离线行为克隆与 MuJoCo 闭环评测的分布偏移，50 个随机扰动初始状态（±1.5cm）验证空间泛化能力。 |
+
+---
+
+## 🎯 Target Roles | 求职方向
+
+I am actively seeking **full-time algorithm engineer / researcher** opportunities in the following directions (open to Singapore, Beijing, Shanghai, Shenzhen, and remote):
+
+我正积极寻求以下方向的**算法工程师 / 研究员全职机会**（坐标可考虑新加坡、北京、上海、深圳及远程）：
+
+| # | Direction | 方向 | Foundation |
+|---|-----------|------|------------|
+| 1 | **Generative Recommendation Algorithm Engineer** | **生成式推荐算法工程师** | MiniOneRec generative recommender (GRPO + RQ-VAE Semantic ID, HR@5=13.21%) <br> 基于 MiniOneRec 的生成式推荐系统（GRPO + RQ-VAE Semantic ID，HR@5=13.21%） |
+| 2 | **LLM Algorithm Engineer** | **大模型算法工程师** | Search-R1 RAG reasoning (veRL + GRPO on Qwen2.5-3B); LLM routing & MAS at NTU AI for X Lab; Kuaishou UI-testing agents <br> Search-R1 检索增强推理（veRL + GRPO 训练 Qwen2.5-3B）；NTU AI for X 实验室 LLM 路由与多智能体；快手 UI 测试智能体 |
+| 3 | **Multimodal Algorithm Engineer** | **多模态算法工程师** | ReTR cross-modal visual-language alignment & material retrieval (InternVL2 + Qwen2, RMR=0.634) <br> ReTR 跨模态视觉-语言对齐与材质检索（InternVL2 + Qwen2，RMR=0.634） |
+| 4 | **Embodied AI Algorithm Engineer** | **具身智能算法工程师** | π₀.₅ VLA fine-tuning on OpenPI (SigLIP + PaliGemma + Flow Matching, 94.6% on LIBERO); SPARC multi-robot path planning (IROS under review) <br> π₀.₅ VLA 微调（SigLIP + PaliGemma + Flow Matching，LIBERO 94.6%）；SPARC 多机器人路径规划（IROS 审稿中） |
+
+> 📮 **Reach out:** [LinkedIn](https://www.linkedin.com/in/alan-xiangyu-wu-b39ba526a) · [xiangyu015@e.ntu.edu.sg](mailto:xiangyu015@e.ntu.edu.sg)
+>
+> 📮 **求职联系：** [LinkedIn](https://www.linkedin.com/in/alan-xiangyu-wu-b39ba526a) · [xiangyu015@e.ntu.edu.sg](mailto:xiangyu015@e.ntu.edu.sg)
 
 ---
 
@@ -199,4 +234,4 @@ I aspire to become a **top-tier AI engineer and scientist**, bridging cutting-ed
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center"><em>Last updated | 最后更新: Feb. 2026</em></p>
+<p align="center"><em>Last updated | 最后更新: May 2026</em></p>
