@@ -85,11 +85,9 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 ### Multimodal Algorithm Researcher | 多模态算法研究员
 **NTU AI for X Lab × MIAO GAME (Joint Training) | 南洋理工大学 AI for X 实验室 × MIAO GAME 联合培养** &nbsp; `Dec 2025 – Present` &nbsp; Singapore
 
-- **ReTR — Cross-modal Visual-Language Alignment & Material Retrieval (paper in preparation)** | **ReTR — 跨模态视觉-语言对齐与材质检索系统（论文准备中）**
-- Proposed the **first benchmark for the Render-to-Material retrieval task**, building a 19,568-triplet dataset of (rendered image, PBR texture, text description) covering fabric, metal, stone, and wood | 提出 **Render-to-Material 检索任务首个 benchmark**，构建 19,568 对（渲染图, PBR 贴图, 文本描述）三元组数据集，覆盖织物/金属/石材/木材等多类材质
-- Designed a two-stage contrastive learning framework: Stage 1 fine-tunes the **InternVL2-1B ViT encoder + ContrastiveHead** with symmetric InfoNCE for render↔texture visual alignment; Stage 2 freezes the ViT and full-parameter fine-tunes **Qwen2 LLM + RetrievalHead** for image-text fused multimodal alignment | 设计两阶段对比学习框架：Stage 1 对 **InternVL2-1B ViT 编码器 + ContrastiveHead** 进行对称 InfoNCE 微调，实现渲染图↔贴图视觉对齐；Stage 2 冻结 ViT，全参数微调 **Qwen2 LLM + RetrievalHead**，实现图文融合查询↔贴图的多模态对齐
-- Proposed **RMR-Score**, a unified retrieval metric fusing R@1 (precision), R@5 (coverage), and MRR (rank quality) into a single comparable scalar, addressing metric fragmentation in cross-modal retrieval | 提出 **RMR-Score** 综合评估指标，融合 R@1（精准度）、R@5（覆盖度）、MRR（排序质量）为单一可比标量，解决跨模态检索领域评估指标碎片化问题
-- On the 1,956-gallery full evaluation: vision-only retrieval reaches **R@1=35.7%, R@5=71.3%, nDCG@10=0.583, RMR=0.530**; multimodal (image+text) retrieval further improves to **R@1=44.5%, R@5=83.8%, R@10=91.2%, nDCG@10=0.688, RMR=0.634**, supporting both pure-visual and natural-language-guided retrieval modes | 在 1,956-gallery 全量评测中，纯视觉检索达 **R@1=35.7%、R@5=71.3%、nDCG@10=0.583、RMR=0.530**；多模态检索（图+文）进一步提升至 **R@1=44.5%、R@5=83.8%、R@10=91.2%、nDCG@10=0.688、RMR=0.634**，支持纯视觉检索与自然语言引导检索两种模式
+- Built **ReTR**, the first **Render-to-Material** retrieval benchmark with a 19,568-triplet dataset (rendered image, PBR texture, text); paper in preparation | 构建 **ReTR**——首个 **Render-to-Material** 检索基准，含 19,568 对（渲染图, PBR 贴图, 文本）三元组数据集；论文准备中
+- Two-stage contrastive learning on **InternVL2-1B ViT + Qwen2 LLM**, with the proposed **RMR-Score** unified retrieval metric | 基于 **InternVL2-1B ViT + Qwen2 LLM** 的两阶段对比学习框架，提出 **RMR-Score** 综合检索指标
+- Multimodal retrieval reaches **R@1=44.5%, R@5=83.8%, R@10=91.2%, RMR=0.634** on 1,956-gallery evaluation | 1,956-gallery 评测下多模态检索达 **R@1=44.5%、R@5=83.8%、R@10=91.2%、RMR=0.634**
 
 ### Research Scientist Intern | 研究科学家实习生
 **Nanyang Technological University — AI for X Lab | 南洋理工大学 AI for X 实验室** &nbsp; `Nov 2025 – Present` &nbsp; Singapore
