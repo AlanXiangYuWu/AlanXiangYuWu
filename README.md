@@ -168,9 +168,9 @@ I am actively seeking **full-time algorithm engineer / researcher** opportunitie
 
 ## 🎯 Short-term Vision | 短期目标
 
-> In the near term, I am focused on **publishing top-tier research papers** (e.g., NeurIPS, ICML, ICLR, ACL, IROS) that advance the frontiers of multi-agent systems and multimodal AI, while securing a **high-impact, international position in Singapore** where I can apply my expertise in a dynamic, globally connected AI ecosystem.
+> In the near term, I am focused on **publishing top-tier research papers** (e.g., NeurIPS, ICML, ICLR, ACL, IROS) that advance the frontiers of multi-agent systems and multimodal AI, while securing a **high-impact algorithm engineer / researcher role in China or Singapore** where I can apply my expertise in a dynamic, globally connected AI ecosystem.
 
-> 短期内，我专注于**发表顶级研究论文**（如 NeurIPS、ICML、ICLR、ACL、IROS），推动多智能体系统与多模态AI的前沿发展，同时寻求在**新加坡获得一份高薪、高影响力的国际化岗位**，在充满活力的全球化AI生态中发挥我的专业能力。
+> 短期内，我专注于**发表顶级研究论文**（如 NeurIPS、ICML、ICLR、ACL、IROS），推动多智能体系统与多模态AI的前沿发展，同时寻求在**中国或新加坡获得一份高薪、高影响力的算法工程师/研究员岗位**，在充满活力的全球化AI生态中发挥我的专业能力。
 
 ---
 
