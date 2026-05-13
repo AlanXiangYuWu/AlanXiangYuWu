@@ -32,9 +32,9 @@ Welcome! I am a Master's student in **Applied Artificial Intelligence** at [Nany
 
 欢迎！我是[南洋理工大学 (NTU)](https://www.ntu.edu.sg/) **应用人工智能**硕士研究生。
 
-I am currently a **Research Scientist Intern** at [NTU AI for X Lab](https://www.ntu.edu.sg/), working on multi-agent systems, LLM routing problems, and multimodal alignment. Previously, I worked as an **Algorithm Engineer** at [Kuaishou Technology](https://www.kuaishou.com/) and served as a **Research Assistant** at [Tsinghua University (THU-NLP-AIR)](https://air.tsinghua.edu.cn/).
+I am currently a **Research Scientist Intern** at [NTU AI for X Lab](https://www.ntu.edu.sg/), working on multi-agent systems, LLM routing problems, and multimodal alignment. Previously, I worked as an **Algorithm Engineer** at [miHoYo](https://www.mihoyo.com/) and [Kuaishou Technology](https://www.kuaishou.com/), and served as a **Research Assistant** at [Tsinghua University (THU-NLP-AIR)](https://air.tsinghua.edu.cn/).
 
-目前，我在 [NTU AI for X 实验室](https://www.ntu.edu.sg/)担任**研究科学家实习生**，研究多智能体系统、大语言模型路由问题和多模态对齐。此前，我在[快手科技](https://www.kuaishou.com/)担任**算法工程师**，并在[清华大学 (THU-NLP-AIR)](https://air.tsinghua.edu.cn/) 担任**研究助理**。
+目前，我在 [NTU AI for X 实验室](https://www.ntu.edu.sg/)担任**研究科学家实习生**，研究多智能体系统、大语言模型路由问题和多模态对齐。此前，我在[米哈游](https://www.mihoyo.com/)和[快手科技](https://www.kuaishou.com/)担任**算法工程师**，并在[清华大学 (THU-NLP-AIR)](https://air.tsinghua.edu.cn/) 担任**研究助理**。
 
 My long-term aspiration is to become a leading AI engineer/scientist and, when the time is right, build my own venture in the AI space.
 
@@ -77,40 +77,6 @@ My long-term aspiration is to become a leading AI engineer/scientist and, when t
 | 2025.11 | Started **M.S. in Applied AI** at Nanyang Technological University, Singapore <br> 入读**南洋理工大学应用人工智能**硕士项目 |
 | 2025.08 | Joined **Kuaishou Technology** as Algorithm Engineer, working on MAS and automated UI testing agents <br> 加入**快手科技**担任算法工程师，研究多智能体系统与自动化UI测试智能体 |
 | 2024.10 | Joined **Tsinghua University (THU-NLP-AIR)** as Research Assistant, working on NLP and RAG systems <br> 加入**清华大学 (THU-NLP-AIR)** 担任研究助理，研究NLP与RAG系统 |
-
----
-
-## 💼 Experience | 工作经历
-
-### Multimodal Algorithm Researcher | 多模态算法研究员
-**NTU AI for X Lab × MIAO GAME (Joint Training) | 南洋理工大学 AI for X 实验室 × MIAO GAME 联合培养** &nbsp; `Dec 2025 – Present` &nbsp; Singapore
-
-- Built **ReTR**, the first **Render-to-Material** retrieval benchmark with a 19,568-triplet dataset (rendered image, PBR texture, text); paper in preparation | 构建 **ReTR**——首个 **Render-to-Material** 检索基准，含 19,568 对（渲染图, PBR 贴图, 文本）三元组数据集；论文准备中
-- Two-stage contrastive learning on **InternVL2-1B ViT + Qwen2 LLM**, with the proposed **RMR-Score** unified retrieval metric | 基于 **InternVL2-1B ViT + Qwen2 LLM** 的两阶段对比学习框架，提出 **RMR-Score** 综合检索指标
-- Multimodal retrieval reaches **R@1=44.5%, R@5=83.8%, R@10=91.2%, RMR=0.634** on 1,956-gallery evaluation | 1,956-gallery 评测下多模态检索达 **R@1=44.5%、R@5=83.8%、R@10=91.2%、RMR=0.634**
-
-### Research Scientist Intern | 研究科学家实习生
-**Nanyang Technological University — AI for X Lab | 南洋理工大学 AI for X 实验室** &nbsp; `Nov 2025 – Present` &nbsp; Singapore
-
-- Latest work: **SPARC: Spatial-Aware Path Planning via Attentive Robot Communication** ([sparc](https://github.com/AlanXiangYuWu/sparc)); **IROS submission under review** (submitted in Feb 2026) | 最新工作：**SPARC：基于注意力机器人通信的空间感知路径规划**（[sparc](https://github.com/AlanXiangYuWu/sparc)）；**IROS 投稿审稿中**（2026年2月投稿）
-- Supervisor: Bo An | 导师：Bo An
-- Multi-Agent Systems (MAS) and LLM-based agent collaboration | 多智能体系统（MAS）与基于LLM的智能体协作
-- LLM routing and coordination (DCOP, Multi-Armed Bandits, adaptive expert selection) | LLM路由与协同（DCOP、多臂老虎机、自适应专家选择）
-- Multimodal alignment and representation learning (World Model) | 多模态对齐与表征学习（世界模型）
-
-### Algorithm Engineer | 算法工程师
-**Kuaishou Technology | 快手科技** &nbsp; `Aug 2025 – Nov 2025` &nbsp; Beijing, China
-
-- Built automated UI testing agents powered by LLMs | 构建基于大语言模型的自动化UI测试智能体
-- Research on multi-agent systems and multimodal LLM systems | 多智能体系统与多模态大模型系统研究
-- Algorithm optimization and development | 算法优化与开发
-
-### Research Assistant | 研究助理
-**Tsinghua University — THU-NLP-AIR | 清华大学** &nbsp; `Oct 2024 – May 2025` &nbsp; Beijing, China
-
-- NLP research and scientific intelligence | 自然语言处理研究与科学智能
-- LLM fine-tuning for domain-specific QA | 面向领域问答的大语言模型微调
-- End-to-end RAG system design and implementation | 端到端RAG系统设计与实现
 
 ---
 
